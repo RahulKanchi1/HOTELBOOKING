@@ -1,0 +1,31 @@
+body{
+    width: 100%;
+    background-image: url(anicent.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    /* opacity: 0.5; */
+}
+body {
+    font-family: 'Courier New', Courier, monospace;
+    overflow-x: hidden; 
+    font-weight: bolder;
+}
+footer {
+            
+    background-color: #0a0a0a;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    /* position: abs?olute; Set position to fixed or absolute */
+    bottom: 0;
+    width: 100%;
+}
+.content{
+   margin-left: 400px;
+   font-size: 30px;
+   font-weight: bold;
+}
+.dic{
+   margin: 9px;
+}
